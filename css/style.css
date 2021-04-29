@@ -118,7 +118,7 @@ html {
     padding-left: 9%;
     text-align: left; }
     .information h2 {
-      margin-top: 47%;
+      margin-top: 46%;
       font-size: 2.4em;
       font-weight: 700;
       padding-right: 5%; }
@@ -126,7 +126,7 @@ html {
       font-size: 1em;
       line-height: 1.8em;
       margin-top: 4%;
-      margin-bottom: 1.5em; }
+      margin-bottom: 0.5em; }
 
   .title {
     margin: 0;
@@ -139,11 +139,13 @@ html {
   .cont-img {
     height: 63.5%; }
 
-  button {
+  .button {
     text-decoration: none;
+    font-size: 1.2em;
+    font-weight: 600;
     background-color: white;
     color: #674baf;
-    padding: 1em 4em 1em 4em;
+    padding: 0.6em 3em 0.6em 3em;
     border-radius: 1.5em; }
 
   .button:hover {
